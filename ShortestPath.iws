@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5241fac5-15a6-4d9b-bc02-9e84700aacb1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/MinTravelTime.java" />
-      <change beforePath="$PROJECT_DIR$/ShortestPath.iws" afterPath="$PROJECT_DIR$/ShortestPath.iws" />
-      <change beforePath="$PROJECT_DIR$/out/production/ShortestPath/DijkstraSP.class" afterPath="$PROJECT_DIR$/out/production/ShortestPath/DijkstraSP.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/ShortestPath/programming_assignment_4_d.class" afterPath="$PROJECT_DIR$/out/production/ShortestPath/programming_assignment_4_d.class" />
-      <change beforePath="$PROJECT_DIR$/src/DijkstraSP.java" afterPath="$PROJECT_DIR$/src/DijkstraSP.java" />
-      <change beforePath="$PROJECT_DIR$/src/programming_assignment_4_d.java" afterPath="$PROJECT_DIR$/src/programming_assignment_4_d.java" />
+      <change beforePath="$PROJECT_DIR$/src/MinTravelTime.java" afterPath="$PROJECT_DIR$/src/MinTravelTime.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,11 +45,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="programming_assignment_4_d.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="programming_assignment_4_d.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/programming_assignment_4_d.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
               <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="graph_3_c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/graph_3_c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="In.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/In.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -104,18 +119,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MinTravelTime.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MinTravelTime.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MinTravelTime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17">
-              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <state relative-caret-position="253">
+              <caret line="44" column="7" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
               <folding>
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#641#642#0" expanded="true" />
-                <element signature="e#781#782#0" expanded="true" />
-                <element signature="e#820#821#0" expanded="true" />
-                <element signature="e#865#866#0" expanded="true" />
-                <element signature="e#902#903#0" expanded="true" />
+                <element signature="e#685#686#0" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
+                <element signature="e#906#907#0" expanded="true" />
+                <element signature="e#945#946#0" expanded="true" />
+                <element signature="e#1096#1097#0" expanded="true" />
+                <element signature="e#1133#1134#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -159,9 +174,9 @@
         <option value="$PROJECT_DIR$/src/graph_3_c" />
         <option value="$PROJECT_DIR$/src/DirectedEdge.java" />
         <option value="$PROJECT_DIR$/src/MinTraveTime.java" />
-        <option value="$PROJECT_DIR$/src/MinTravelTime.java" />
         <option value="$PROJECT_DIR$/src/DijkstraSP.java" />
         <option value="$PROJECT_DIR$/src/programming_assignment_4_d.java" />
+        <option value="$PROJECT_DIR$/src/MinTravelTime.java" />
       </list>
     </option>
   </component>
@@ -376,12 +391,12 @@
       <workItem from="1526153357510" duration="71000" />
       <workItem from="1526155187067" duration="1778000" />
       <workItem from="1526943209890" duration="119000" />
-      <workItem from="1527199780740" duration="11435000" />
+      <workItem from="1527199780740" duration="13021000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16237000" />
+    <option name="totallyTimeSpent" value="17823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -895,14 +910,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/In.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2228">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -938,14 +945,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/graph_3_c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -1012,21 +1011,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MinTravelTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding>
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-            <element signature="e#781#782#0" expanded="true" />
-            <element signature="e#820#821#0" expanded="true" />
-            <element signature="e#865#866#0" expanded="true" />
-            <element signature="e#902#903#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DijkstraSP.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
@@ -1043,6 +1027,37 @@
         <state relative-caret-position="252">
           <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graph_3_c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/In.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinTravelTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="44" column="7" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
+          <folding>
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="e#945#946#0" expanded="true" />
+            <element signature="e#1096#1097#0" expanded="true" />
+            <element signature="e#1133#1134#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

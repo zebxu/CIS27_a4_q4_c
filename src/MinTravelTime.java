@@ -1,5 +1,6 @@
 public class MinTravelTime {
-    private IndexMinPQ<Double>[] pq;
+
+    private IndexMinPQ<Double>[] pq; // pq[customer] Minimum Priory Queue of travel time
 
     /**
      *
@@ -14,6 +15,7 @@ public class MinTravelTime {
     }
 
     /**
+     * Insert the data for each customer
      *
      * @param dist distance to the Customer from the Station
      * @param station Station
@@ -25,6 +27,7 @@ public class MinTravelTime {
     }
 
     /**
+     * Get the nearest station
      *
      * @param v Vertex
      * @return the station closest to the Vertex
@@ -34,6 +37,12 @@ public class MinTravelTime {
         return pq[v].minIndex();
     }
 
+    /**
+     * Get the travel time from the nearest station
+     *
+     * @param v
+     * @return
+     */
     public double shortestDist(int v)
     {
         return pq[v].minKey();
