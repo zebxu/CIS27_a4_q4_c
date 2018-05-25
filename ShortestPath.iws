@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5241fac5-15a6-4d9b-bc02-9e84700aacb1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/ShortestPath.ipr" afterPath="$PROJECT_DIR$/ShortestPath.ipr" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/MinTravelTime.java" />
+      <change beforePath="$PROJECT_DIR$/ShortestPath.iws" afterPath="$PROJECT_DIR$/ShortestPath.iws" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShortestPath/DijkstraSP.class" afterPath="$PROJECT_DIR$/out/production/ShortestPath/DijkstraSP.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShortestPath/programming_assignment_4_d.class" afterPath="$PROJECT_DIR$/out/production/ShortestPath/programming_assignment_4_d.class" />
       <change beforePath="$PROJECT_DIR$/src/DijkstraSP.java" afterPath="$PROJECT_DIR$/src/DijkstraSP.java" />
+      <change beforePath="$PROJECT_DIR$/src/programming_assignment_4_d.java" afterPath="$PROJECT_DIR$/src/programming_assignment_4_d.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,12 +22,11 @@
       <file leaf-file-name="DijkstraSP.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DijkstraSP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="981">
-              <caret line="212" column="19" lean-forward="true" selection-start-line="212" selection-start-column="19" selection-end-line="212" selection-end-column="19" />
+            <state relative-caret-position="146">
+              <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
                 <element signature="docComment;class#DijkstraSP#0" expanded="false" />
-                <element signature="e#5606#5620#0" expanded="true" />
+                <element signature="e#5652#5666#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -32,8 +35,8 @@
       <file leaf-file-name="EdgeWeightedDigraph.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/EdgeWeightedDigraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3239">
-              <caret line="51" column="19" lean-forward="true" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+            <state relative-caret-position="432">
+              <caret line="56" column="25" lean-forward="false" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
               <folding>
                 <element signature="docComment;class#EdgeWeightedDigraph#0" expanded="false" />
                 <element signature="e#4976#4990#0" expanded="true" />
@@ -50,8 +53,8 @@
       <file leaf-file-name="programming_assignment_4_d.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/programming_assignment_4_d.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            <state relative-caret-position="252">
+              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -60,10 +63,10 @@
       <file leaf-file-name="DirectedEdge.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DirectedEdge.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1025">
-              <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+            <state relative-caret-position="108">
+              <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="docComment;class#DirectedEdge#0" expanded="false" />
                 <element signature="e#1961#1962#0" expanded="true" />
                 <element signature="e#1985#1986#0" expanded="true" />
                 <element signature="e#2129#2130#0" expanded="true" />
@@ -77,13 +80,42 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Bag.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Bag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="56" column="31" lean-forward="true" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
+              <folding>
+                <element signature="docComment;class#Bag#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="IndexMinPQ.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/IndexMinPQ.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3977">
-              <caret line="77" column="7" lean-forward="true" selection-start-line="77" selection-start-column="7" selection-end-line="77" selection-end-column="7" />
+            <state relative-caret-position="176">
+              <caret line="136" column="59" lean-forward="false" selection-start-line="136" selection-start-column="59" selection-end-line="136" selection-end-column="59" />
               <folding>
                 <element signature="docComment;class#IndexMinPQ#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinTravelTime.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MinTravelTime.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17">
+              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+              <folding>
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
+                <element signature="e#781#782#0" expanded="true" />
+                <element signature="e#820#821#0" expanded="true" />
+                <element signature="e#865#866#0" expanded="true" />
+                <element signature="e#902#903#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -124,10 +156,12 @@
         <option value="$PROJECT_DIR$/src/BellmanFordSP.java" />
         <option value="$PROJECT_DIR$/src/EdgeWeightedDirectedCycle.java" />
         <option value="$PROJECT_DIR$/src/EdgeWeightedDigraph.java" />
-        <option value="$PROJECT_DIR$/src/programming_assignment_4_d.java" />
-        <option value="$PROJECT_DIR$/src/DirectedEdge.java" />
         <option value="$PROJECT_DIR$/src/graph_3_c" />
+        <option value="$PROJECT_DIR$/src/DirectedEdge.java" />
+        <option value="$PROJECT_DIR$/src/MinTraveTime.java" />
+        <option value="$PROJECT_DIR$/src/MinTravelTime.java" />
         <option value="$PROJECT_DIR$/src/DijkstraSP.java" />
+        <option value="$PROJECT_DIR$/src/programming_assignment_4_d.java" />
       </list>
     </option>
   </component>
@@ -342,12 +376,12 @@
       <workItem from="1526153357510" duration="71000" />
       <workItem from="1526155187067" duration="1778000" />
       <workItem from="1526943209890" duration="119000" />
-      <workItem from="1527199780740" duration="5457000" />
+      <workItem from="1527199780740" duration="11435000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10259000" />
+    <option name="totallyTimeSpent" value="16237000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -398,9 +432,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="docComment;class#DijkstraSP#0" expanded="false" />
-            <element signature="e#5606#5620#0" expanded="true" />
+            <element signature="e#5652#5666#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -485,20 +518,20 @@
         <state relative-caret-position="450">
           <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
             <element signature="imports" expanded="true" />
-            <element signature="e#2105#2106#0" expanded="true" />
-            <element signature="e#2141#2142#0" expanded="true" />
-            <element signature="e#2288#2289#0" expanded="true" />
-            <element signature="e#2312#2313#0" expanded="true" />
-            <element signature="e#2461#2462#0" expanded="true" />
-            <element signature="e#2485#2486#0" expanded="true" />
-            <element signature="e#4201#4202#0" expanded="true" />
-            <element signature="e#4242#4243#0" expanded="true" />
-            <element signature="e#4443#4444#0" expanded="true" />
-            <element signature="e#4489#4490#0" expanded="true" />
-            <element signature="e#4521#4522#0" expanded="true" />
-            <element signature="e#4586#4587#0" expanded="true" />
+            <element signature="e#2105#2106#0" expanded="false" />
+            <element signature="e#2141#2142#0" expanded="false" />
+            <element signature="e#2288#2289#0" expanded="false" />
+            <element signature="e#2312#2313#0" expanded="false" />
+            <element signature="e#2461#2462#0" expanded="false" />
+            <element signature="e#2485#2486#0" expanded="false" />
+            <element signature="e#4201#4202#0" expanded="false" />
+            <element signature="e#4242#4243#0" expanded="false" />
+            <element signature="e#4443#4444#0" expanded="false" />
+            <element signature="e#4489#4490#0" expanded="false" />
+            <element signature="e#4521#4522#0" expanded="false" />
+            <element signature="e#4586#4587#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -540,9 +573,8 @@
         <state relative-caret-position="288">
           <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="docComment;class#DijkstraSP#0" expanded="false" />
-            <element signature="e#5606#5620#0" expanded="true" />
+            <element signature="e#5652#5666#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -589,20 +621,20 @@
         <state relative-caret-position="36">
           <caret line="13" column="40" lean-forward="false" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
             <element signature="imports" expanded="true" />
-            <element signature="e#2105#2106#0" expanded="true" />
-            <element signature="e#2141#2142#0" expanded="true" />
-            <element signature="e#2288#2289#0" expanded="true" />
-            <element signature="e#2312#2313#0" expanded="true" />
-            <element signature="e#2461#2462#0" expanded="true" />
-            <element signature="e#2485#2486#0" expanded="true" />
-            <element signature="e#4201#4202#0" expanded="true" />
-            <element signature="e#4242#4243#0" expanded="true" />
-            <element signature="e#4443#4444#0" expanded="true" />
-            <element signature="e#4489#4490#0" expanded="true" />
-            <element signature="e#4521#4522#0" expanded="true" />
-            <element signature="e#4586#4587#0" expanded="true" />
+            <element signature="e#2105#2106#0" expanded="false" />
+            <element signature="e#2141#2142#0" expanded="false" />
+            <element signature="e#2288#2289#0" expanded="false" />
+            <element signature="e#2312#2313#0" expanded="false" />
+            <element signature="e#2461#2462#0" expanded="false" />
+            <element signature="e#2485#2486#0" expanded="false" />
+            <element signature="e#4201#4202#0" expanded="false" />
+            <element signature="e#4242#4243#0" expanded="false" />
+            <element signature="e#4443#4444#0" expanded="false" />
+            <element signature="e#4489#4490#0" expanded="false" />
+            <element signature="e#4521#4522#0" expanded="false" />
+            <element signature="e#4586#4587#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -649,9 +681,8 @@
         <state relative-caret-position="126">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="docComment;class#DijkstraSP#0" expanded="false" />
-            <element signature="e#5606#5620#0" expanded="true" />
+            <element signature="e#5652#5666#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -688,20 +719,20 @@
         <state relative-caret-position="234">
           <caret line="13" column="40" lean-forward="false" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
             <element signature="imports" expanded="true" />
-            <element signature="e#2105#2106#0" expanded="true" />
-            <element signature="e#2141#2142#0" expanded="true" />
-            <element signature="e#2288#2289#0" expanded="true" />
-            <element signature="e#2312#2313#0" expanded="true" />
-            <element signature="e#2461#2462#0" expanded="true" />
-            <element signature="e#2485#2486#0" expanded="true" />
-            <element signature="e#4201#4202#0" expanded="true" />
-            <element signature="e#4242#4243#0" expanded="true" />
-            <element signature="e#4443#4444#0" expanded="true" />
-            <element signature="e#4489#4490#0" expanded="true" />
-            <element signature="e#4521#4522#0" expanded="true" />
-            <element signature="e#4586#4587#0" expanded="true" />
+            <element signature="e#2105#2106#0" expanded="false" />
+            <element signature="e#2141#2142#0" expanded="false" />
+            <element signature="e#2288#2289#0" expanded="false" />
+            <element signature="e#2312#2313#0" expanded="false" />
+            <element signature="e#2461#2462#0" expanded="false" />
+            <element signature="e#2485#2486#0" expanded="false" />
+            <element signature="e#4201#4202#0" expanded="false" />
+            <element signature="e#4242#4243#0" expanded="false" />
+            <element signature="e#4443#4444#0" expanded="false" />
+            <element signature="e#4489#4490#0" expanded="false" />
+            <element signature="e#4521#4522#0" expanded="false" />
+            <element signature="e#4586#4587#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -758,9 +789,8 @@
         <state relative-caret-position="126">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="docComment;class#DijkstraSP#0" expanded="false" />
-            <element signature="e#5606#5620#0" expanded="true" />
+            <element signature="e#5652#5666#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -783,20 +813,20 @@
         <state relative-caret-position="234">
           <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
             <element signature="imports" expanded="true" />
-            <element signature="e#2105#2106#0" expanded="true" />
-            <element signature="e#2141#2142#0" expanded="true" />
-            <element signature="e#2288#2289#0" expanded="true" />
-            <element signature="e#2312#2313#0" expanded="true" />
-            <element signature="e#2461#2462#0" expanded="true" />
-            <element signature="e#2485#2486#0" expanded="true" />
-            <element signature="e#4201#4202#0" expanded="true" />
-            <element signature="e#4242#4243#0" expanded="true" />
-            <element signature="e#4443#4444#0" expanded="true" />
-            <element signature="e#4489#4490#0" expanded="true" />
-            <element signature="e#4521#4522#0" expanded="true" />
-            <element signature="e#4586#4587#0" expanded="true" />
+            <element signature="e#2105#2106#0" expanded="false" />
+            <element signature="e#2141#2142#0" expanded="false" />
+            <element signature="e#2288#2289#0" expanded="false" />
+            <element signature="e#2312#2313#0" expanded="false" />
+            <element signature="e#2461#2462#0" expanded="false" />
+            <element signature="e#2485#2486#0" expanded="false" />
+            <element signature="e#4201#4202#0" expanded="false" />
+            <element signature="e#4242#4243#0" expanded="false" />
+            <element signature="e#4443#4444#0" expanded="false" />
+            <element signature="e#4489#4490#0" expanded="false" />
+            <element signature="e#4521#4522#0" expanded="false" />
+            <element signature="e#4586#4587#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -849,16 +879,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="135" column="1" lean-forward="false" selection-start-line="135" selection-start-column="1" selection-end-line="135" selection-end-column="1" />
-          <folding>
-            <element signature="docComment;class#Bag#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BellmanFordSP.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="509">
@@ -888,20 +908,20 @@
         <state relative-caret-position="234">
           <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
             <element signature="imports" expanded="true" />
-            <element signature="e#2105#2106#0" expanded="true" />
-            <element signature="e#2141#2142#0" expanded="true" />
-            <element signature="e#2288#2289#0" expanded="true" />
-            <element signature="e#2312#2313#0" expanded="true" />
-            <element signature="e#2461#2462#0" expanded="true" />
-            <element signature="e#2485#2486#0" expanded="true" />
-            <element signature="e#4201#4202#0" expanded="true" />
-            <element signature="e#4242#4243#0" expanded="true" />
-            <element signature="e#4443#4444#0" expanded="true" />
-            <element signature="e#4489#4490#0" expanded="true" />
-            <element signature="e#4521#4522#0" expanded="true" />
-            <element signature="e#4586#4587#0" expanded="true" />
+            <element signature="e#2105#2106#0" expanded="false" />
+            <element signature="e#2141#2142#0" expanded="false" />
+            <element signature="e#2288#2289#0" expanded="false" />
+            <element signature="e#2312#2313#0" expanded="false" />
+            <element signature="e#2461#2462#0" expanded="false" />
+            <element signature="e#2485#2486#0" expanded="false" />
+            <element signature="e#4201#4202#0" expanded="false" />
+            <element signature="e#4242#4243#0" expanded="false" />
+            <element signature="e#4443#4444#0" expanded="false" />
+            <element signature="e#4489#4490#0" expanded="false" />
+            <element signature="e#4521#4522#0" expanded="false" />
+            <element signature="e#4586#4587#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -922,24 +942,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DirectedEdge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1025">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#1961#1962#0" expanded="true" />
-            <element signature="e#1985#1986#0" expanded="true" />
-            <element signature="e#2129#2130#0" expanded="true" />
-            <element signature="e#2153#2154#0" expanded="true" />
-            <element signature="e#2294#2295#0" expanded="true" />
-            <element signature="e#2323#2324#0" expanded="true" />
-            <element signature="e#2492#2493#0" expanded="true" />
-            <element signature="e#2566#2567#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/graph_3_c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -956,20 +958,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IndexMinPQ.java">
+    <entry file="file://$PROJECT_DIR$/src/Bag.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3977">
-          <caret line="77" column="7" lean-forward="true" selection-start-line="77" selection-start-column="7" selection-end-line="77" selection-end-column="7" />
+        <state relative-caret-position="162">
+          <caret line="56" column="31" lean-forward="true" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
           <folding>
-            <element signature="docComment;class#IndexMinPQ#0" expanded="false" />
+            <element signature="docComment;class#Bag#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DirectedEdge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding>
+            <element signature="docComment;class#DirectedEdge#0" expanded="false" />
+            <element signature="e#1961#1962#0" expanded="true" />
+            <element signature="e#1985#1986#0" expanded="true" />
+            <element signature="e#2129#2130#0" expanded="true" />
+            <element signature="e#2153#2154#0" expanded="true" />
+            <element signature="e#2294#2295#0" expanded="true" />
+            <element signature="e#2323#2324#0" expanded="true" />
+            <element signature="e#2492#2493#0" expanded="true" />
+            <element signature="e#2566#2567#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/EdgeWeightedDigraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3239">
-          <caret line="51" column="19" lean-forward="true" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        <state relative-caret-position="432">
+          <caret line="56" column="25" lean-forward="false" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
           <folding>
             <element signature="docComment;class#EdgeWeightedDigraph#0" expanded="false" />
             <element signature="e#4976#4990#0" expanded="true" />
@@ -982,22 +1002,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/IndexMinPQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="136" column="59" lean-forward="false" selection-start-line="136" selection-start-column="59" selection-end-line="136" selection-end-column="59" />
+          <folding>
+            <element signature="docComment;class#IndexMinPQ#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinTravelTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding>
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+            <element signature="e#902#903#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/DijkstraSP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="981">
-          <caret line="212" column="19" lean-forward="true" selection-start-line="212" selection-start-column="19" selection-end-line="212" selection-end-column="19" />
+        <state relative-caret-position="146">
+          <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="docComment;class#DijkstraSP#0" expanded="false" />
-            <element signature="e#5606#5620#0" expanded="true" />
+            <element signature="e#5652#5666#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/programming_assignment_4_d.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        <state relative-caret-position="252">
+          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
           <folding />
         </state>
       </provider>

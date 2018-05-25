@@ -53,6 +53,7 @@ public class DijkstraSP {
     private double[] distTo;          // distTo[v] = distance  of shortest s->v path
     private DirectedEdge[] edgeTo;    // edgeTo[v] = last edge on shortest s->v path
     private IndexMinPQ<Double> pq;    // priority queue of vertices
+    private int source;
 
     /**
      * Computes a shortest-paths tree from the source vertex {@code s} to every other
@@ -64,6 +65,9 @@ public class DijkstraSP {
      * @throws IllegalArgumentException unless {@code 0 <= s < V}
      */
     public DijkstraSP(EdgeWeightedDigraph G, int s) {
+
+        source = s;
+
         for (DirectedEdge e : G.edges()) {
             if (e.weight() < 0)
                 throw new IllegalArgumentException("edge " + e + " has negative weight");
@@ -203,6 +207,12 @@ public class DijkstraSP {
         if (v < 0 || v >= V)
             throw new IllegalArgumentException("vertex " + v + " is not between 0 and " + (V-1));
     }
+
+    /**
+     *
+     * @return source Vertex
+     */
+    public int getSource() { return source; }
 
     /**
      * Unit tests the {@code DijkstraSP} data type.
